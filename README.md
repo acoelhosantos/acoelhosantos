@@ -1,3 +1,3 @@
 # Hey, I'm André 👋
 
-Portugal based software engineer and PhD holder; 1.9k+ contributions in the last year split across pull requests (48%), reviews (34%), and issues (18%); GitHub achievements like Pull Shark ×4, Pair Extraordinaire ×4, Quickdraw, YOLO, and Arctic Code Vault Contributor; focused on modern web platforms, cloud-native APIs, testing/observability/CI pipelines, cloud infrastructure, and developer-experience tooling.
+Lisbon-based senior software engineer with a PhD in information systems and computer engineering and industry experience ranging from small startups to large enterprises. I build all sorts of things, but lately I've focused more on modern web platforms and cloud-native APIs, with an emphasis on security, observability, cloud infrastructure, compliance, and developer experience. For fun, I also build games and small tools that help my day-to-day workflow.
